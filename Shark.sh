@@ -91,8 +91,8 @@ echo $cyan "[+]$yellow 99.Info Tolls                                            
 echo $cyan "[+]============================================================[+]"
 echo $cyan "[+]$yellow 0.Keluar                                                 $cyan  [+]"
 echo $cyan" [+]==========================$yellow[Menu]$cyan============================[+]"
-echo $white"鈺攢root@Mine7~#"
-read -p "鈺扳攢$" kampang
+echo $white"╭─root@Mine7~#"
+read -p "╰─$" kampang
 
 if [ $kampang = "0" ] || [ $kampang = "00" ]
 then
