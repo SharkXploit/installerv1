@@ -21,7 +21,7 @@ echo $cyan
 figlet  "Installer V1"
 echo $yellow"====================================================================="
 echo $cyan "[*]$cyan############################################################$cyan[*]"
-echo $cyan" |*|  $yellow        Author   : Mine7 | Labib                          $cyan|*|"
+echo $cyan" |*|  $yellow        Author   : InYourMine7                            $cyan|*|"
 echo $cyan" |*|  $yellow        Team     : SharkXploit                          $cyan  |*|"
 echo $cyan" |*|  $yellow        Contact  : 0895378276565                       $cyan   |*|"
 echo $cyan" [*]############################################################[*]"
@@ -526,7 +526,7 @@ echo $cyan "Tolls kecil ini hanya untuk mengintall tolls lain"
 sleep 1
 echo $cyan "Kalo ada yg rusak / error harap hub no ini = 0895378276565"
 sleep 1
-echo $cyan "Thanks To : SharkXploit - 2Easy4Hack - Rabbit Cyber Team - Ancient One - Cyber Code Indonesia"
+echo $cyan "Thanks To : SharkXploit - 2Easy4Hack - Ancient One - Cyber Code Indonesia"
 sleep 1
 echo $cyan "and all pemogramer indonesia"
 sleep 1
